@@ -1,5 +1,10 @@
 .App {
-  text-align: center;
+  /* height: 130vh; */
+  background: rgba(0, 0, 0, 0.7) url(./images/Rectangle\ 1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: darken;
+  color: white;
 }
 
 .App-logo {

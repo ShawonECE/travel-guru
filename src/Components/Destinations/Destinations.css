@@ -1,0 +1,49 @@
+.destination-card {
+    /* border: none; */
+    margin: 0 20% 0 20%;
+}
+
+@media screen and (max-width: 450px){
+    .destination-card {
+        margin: 0 10% 0 10%;
+    }
+}
+
+.destination-detail {
+    margin: 10% 0 0 10%;
+}
+
+.btn-type-two {
+    background-color: #F9A51A;
+    padding: 5px 18px 5px 18px;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-type-three {
+    background-color: #F9A51A;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 0 8px 0;
+}
+
+.material-symbols-outlined {
+    margin-top: 1.5px !important;
+}
+
+.slider {
+    margin: 10% 0 27% 0;
+}
+
+.booking-form {
+    width: 72%;
+    margin: 10% 11.5% 58% 11.5%;
+    background-color: white;
+    color: black;
+    padding: 2.5%;
+    border-radius: 5px;
+}
+
+.input-field {
+    font-weight: 700 !important;
+}

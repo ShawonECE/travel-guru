@@ -1,0 +1,56 @@
+.stay {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.stay-card {
+    border: none !important;
+    margin: 0 0 4% 0;
+}
+
+.small {
+    font-size: small;
+    font-weight: 200;
+    margin: 0;
+}
+
+.large {
+    font-size: large;
+    font-weight: 750;
+}
+
+.stay-title {
+    font-size:medium;
+    font-weight: 500;
+    margin: 0 0 9% 0;
+}
+
+.stay-detail {
+    font-size:small;
+    font-weight: 400;
+    color: dimgray;
+    margin: 0 0 2% 0;
+}
+
+.star {
+    width: 12px;
+    height: 12px;
+    margin: 0 2px 0 0;
+}
+
+.rating {
+    font-size: x-small;
+    font-weight: 700;
+}
+
+.stay-footer {
+    margin: 6% 0 0 0;
+}
+
+.price {
+    font-size: medium;
+    font-weight: 500;
+    margin: 0 0 0 4%;
+}
